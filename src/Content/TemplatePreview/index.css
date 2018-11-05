@@ -1,0 +1,11 @@
+.previewTextarea {
+  width: 414px;
+  height: 400px;
+  resize: none;
+  outline: none;
+  font-size: 14px;
+  padding: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  font-family: 'Courier New', Courier, monospace;
+}

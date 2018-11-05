@@ -1,0 +1,19 @@
+.translatesList {
+  list-style-type: none;
+  width: 350px;
+  margin-top: 32px;
+  flex-direction: column;
+  display: flex;
+  margin-right: 42px;
+}
+
+.listItem {
+  padding: 20px;
+}
+
+.backButton {
+  width: 200px;
+  position: relative;
+  top: 36px;
+  align-self: flex-end;
+}

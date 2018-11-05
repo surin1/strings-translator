@@ -1,0 +1,24 @@
+.translatesFormContainer {
+  width: 100%;
+}
+
+.translateForm {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.scrollContainer {
+  height: 408px;
+  overflow: auto;
+  padding: 10px 37px;
+  padding-left: 2px;
+  padding-top: 1px;
+  padding-right: 48px;
+}
+
+.compileButton {
+  position: absolute !important;
+  bottom: 25px;
+  right: 25px;
+}

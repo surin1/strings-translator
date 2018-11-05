@@ -1,0 +1,15 @@
+.contentContainer {
+  margin-top: 32px;
+  display: flex;
+}
+
+.templateCode {
+  margin-right: 42px;
+}
+
+.formContainer {
+  width: 100%;
+  padding: 6px;
+  padding-top: 0;
+  padding-right: 42px;
+}

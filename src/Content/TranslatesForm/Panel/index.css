@@ -1,0 +1,27 @@
+.panelContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+  position: relative;
+}
+
+.panelContainer:last-child {
+  margin-bottom: 0;
+}
+
+.panel {
+  width: 96%;
+}
+
+.addIcon {
+  color: #757575;
+  margin-left: 6px;
+  cursor: pointer;
+  position: absolute;
+  right: -40px;
+}
+
+.addButton {
+  width: 10px;
+  height: 10px;
+}
